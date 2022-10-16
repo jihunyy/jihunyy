@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=slice&color=D4DAE8&height=300&section=header&text=Jihun%20Lee&fontSize=90)
+
 <!--
 **jihunyy/jihunyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
