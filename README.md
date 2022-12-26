@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=D4DAE8&height=300&section=header&text=Jihun%20Lee&fontSize=90&fontColor=86A5FF)
+![header](https://capsule-render.vercel.app/api?type=slice&color=D4DAE8&height=300&section=header&text=Jihun%20Lee&fontSize=90&fontColor=c8c8c8)
 
 <h3 align ="center">Tech Stack</h3>
 
