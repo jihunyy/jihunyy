@@ -14,10 +14,10 @@
 </p>
 
 <p align = "center">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=PyTorch&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=TensorFlow&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Bootstrap&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> &nbsp;
 </p>
 
